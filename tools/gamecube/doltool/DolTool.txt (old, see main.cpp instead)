@@ -1,0 +1,46 @@
+DolTool v0.3 - loser 2003
+
+
+oO What is a Dol file Oo
+
+a dol file is a gamecube executable file.
+when compiling code for gamecube, an elf file is the typical
+output file format. the elf file is then converted into a dol file.
+a dol file can be thought of as a simplified elf file.
+
+
+oO So what can this tool do for me? Oo
+
+since the dol file format is a custom format for the gamecube,
+there dont exist any tools for manipulating them.
+this tool can give you information on a dol file, as well as
+being able to convert between the dol format and other more
+common formats. this tool can do the following conversions:
+
+	elf -> dol
+	dol -> elf
+	bin -> dol
+	dol -> bin
+
+
+oO Source code Oo
+
+the source code to this tool has been included due to requests
+from ppl in the scene who wish to either port this tool or see
+how it works, or improve it :)
+
+i initially had high hopes on making the source code easy to read
+and not too messy, however as time got short (things like work
+getting in the way) the code started getting messier and more
+hacked together :o/ oh well. hopefully u can understand my code
+enough to make use of it. the DolFile class should be ok due to
+its simplicity, but the ElfFile class was a bit more complicated
+(and i was running out of time when i started on it :P) so take care
+when using it hehe
+
+
+oO Contact info Oo
+
+loser
+email: loser@internalreality.com
+www:   www.internalreality.com

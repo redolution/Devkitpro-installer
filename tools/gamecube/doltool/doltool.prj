@@ -1,0 +1,71 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Group]
+0=include
+1=source
+2=
+[Project Information]
+Filter=*.*
+Use Relative Directory=1
+Relative to Project File=1
+Project Wordfile=
+Project Tagfile=
+Create Tagfile=0
+Include Sub Directories=0
+[Open Files]
+Open File0=
+Active File Display Mode=-1
+Open File Pos0=129
+Open File Line0=0
+Active File Index=8
+Open File Window Pos0=0,1,-1,-1,-4,-23,110,110,975,479
+Open File1=C:\projects\devkitPro\tools\gamecube\doltool\include\DolFile.h
+Open File Pos1=242
+Open File Line1=0
+Open File Window Pos1=0,1,-1,-1,-4,-23,132,132,1001,505
+Open File2=c:\projects\devkitPro\tools\gamecube\doltool\source\ElfFile.cpp
+Open File Pos2=27285
+Open File Line2=26584
+Open File Window Pos2=0,1,-1,-1,-4,-23,154,154,1023,527
+Open File3=c:\projects\devkitPro\tools\gamecube\doltool\source\main.cpp
+Open File Pos3=2645
+Open File Line3=1986
+Open File Window Pos3=0,1,-1,-1,-4,-23,0,0,869,373
+Open File4=C:\projects\devkitPro\tools\gamecube\doltool\Makefile
+Open File Pos4=1395
+Open File Line4=1120
+Open File Window Pos4=0,1,-1,-1,-4,-23,22,22,891,395
+Open File5=C:\projects\devkitPro\tools\gamecube\doltool\doltool.exe
+Open File Pos5=56955
+Open File Line5=56944
+Open File Window Pos5=0,1,-1,-1,-4,-23,44,44,913,417
+Open File6=C:\projects\devkitPro\tools\gamecube\doltool\build\doltool.exe.map
+Open File Pos6=77676
+Open File Line6=77676
+Open File Window Pos6=0,1,-1,-1,-4,-23,66,66,935,439
+Open File7=C:\projects\devkitPro\tools\gamecube\doltool\DolTool.txt (old, see main.cpp instead)
+Open File Pos7=1429
+Open File Line7=333
+Open File Window Pos7=0,1,-1,-1,-4,-23,88,88,957,461
+Open File8=C:\tools\xgflash\XG1\INF2000\XGWinit.sys
+Open File Pos8=25665
+Open File Line8=15360
+Open File Window Pos8=2,3,-1,-1,-4,-23,110,110,979,483
+Open File9=
+[File View]
+Current Select=Project Files
+Scroll Position=0
+[Files - include]
+0=include\DolFile.h
+1=include\ElfFile.h
+2=include\GenericFile.h
+3=include\Types.h
+4=include\UtilFuncs.h
+[Files]
+0=Makefile
+[Files - source]
+0=source\DolFile.cpp
+1=source\ElfFile.cpp
+2=source\GenericFile.cpp
+3=source\main.cpp
+4=source\UtilFuncs.cpp
